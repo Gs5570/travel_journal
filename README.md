@@ -14,6 +14,6 @@ Static travel page build with react that detail certain travel location. This sm
 
 ## Command:
 > * npm install
-> * npm run dev (to run the project )
+> * npm run dev (to run the project on your local computer)
 >
 
